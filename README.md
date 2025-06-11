@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ADVANCED JS,PYTHON,BACKEND DEVELOPMENT**
 
-- 📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/arka04)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/arka04/)
 
 - 📫 How to reach me **arka25.cp@gmail.com**
 
