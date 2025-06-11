@@ -1,6 +1,6 @@
 ![logo](https://github.com/Godatcode/Godatcode/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm ARKA GHOSH</h1>
-<h3 align="center">A Young Cricketer Wanna Be an ALL-Rounder in "Hello World" & "Web-Dev".</h3>
+<h3 align="center">Cricketer by Passion | Coder by Choice | All-Rounder by Practice</h3>
 <div align="center" style="width: 400px; height: 200px; border-radius: 50%; overflow: hidden; border: 5px solid blue; display: flex; justify-content: center; align-items: center;">
   <img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" alt="GIF" style="width: 300px; height: auto; transform: translate(-50px, -30px);">
 </div>
