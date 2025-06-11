@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **ADVANCED JS,PYTHON,BACKEND DEVELOPMENT**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/arka-ghosh45](www.linkedin.com/in/arka-ghosh45)
+- 📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/arka04)
 
-- 📫 How to reach me **arkaghosh25012005@gmail.com**
+- 📫 How to reach me **arka25.cp@gmail.com**
 
 - ⚡ Fun fact **I love Cricket More Than DEV**
 
